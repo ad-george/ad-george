@@ -12,8 +12,6 @@
 
 🔭 I’m currently working on deep learning projects and simulation models  
 👯 I’m looking to collaborate on Computer Vision and Data Analytics projects  
-💬 Ask me about Python, SQL, Machine Learning, and AI systems  
-
 
 ## 🚀 Top Projects
 

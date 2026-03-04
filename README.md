@@ -14,7 +14,7 @@
 
 ## 🚀 Top Projects
 
-###  👁  Smart Attendance System
+*###  👁  Smart Attendance System*
 An AI-powered face recognition system that automates student attendance through real-time facial scanning and verification.                          
 🔗 [View Project](https://github.com/ad-george/smart_attendace)
 

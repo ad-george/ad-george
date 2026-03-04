@@ -8,8 +8,6 @@
 
 🧠 Currently exploring Deep Learning architectures and advanced AI modeling techniques.  
 
-📊 Driven by curiosity, precision, and continuous learning — always building, always improving.  
-
 🔭 I’m currently working on deep learning projects and simulation models  
 👯 I’m looking to collaborate on Computer Vision and Data Analytics projects  
 

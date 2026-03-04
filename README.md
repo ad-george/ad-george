@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Data Science Student @MUST| Kenya 🇰🇪  
+🎓 Data Science Student @MUST | Kenya 🇰🇪  
 
 🐍 Python • 🗄 SQL • 🤖 Machine Learning • 👁 Computer Vision  
 
